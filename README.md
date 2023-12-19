@@ -1,5 +1,5 @@
 # 👋 Hi there
-I'm Raphael Perfi, a great tech enthusiast. Currently, i'm in the search for a position where I can enhance my skillset in web technologies.
+Technology enthusiast and passionate about ethical hacking, I am in search of my first opportunity as a Junior Developer.
 
 
 <!--
