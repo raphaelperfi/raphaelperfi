@@ -2,3 +2,5 @@
 
 #### Languages & Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,figma)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelperfi&layout=compact)
