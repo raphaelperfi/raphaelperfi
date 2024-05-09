@@ -1,9 +1,11 @@
 👋 Technology enthusiast and passionate about ethical hacking.
 
-#### Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,figma)](https://skillicons.dev)
+## Languages & Tools ⚒️ 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,figma,mysql)]()
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelperfi&layout=compact)
 
-#### Others:
-[![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/raphaelperfi)
+### Others 👀
+[![My Skills](https://skillicons.dev/icons?i=codepen)](https://codepen.io/raphaelperfi) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raphaelperfi/)
+
+[Frontend Mentor](https://www.frontendmentor.io/profile/raphaelperfi)
